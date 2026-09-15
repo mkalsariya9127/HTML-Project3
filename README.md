@@ -4,6 +4,15 @@ A visually engaging creative agency landing page built to present digital agency
 
 ---
 
+## 🚀 Live Demo & Preview
+👉 **[View Live Website on GitHub Pages](https://mkalsariya9127.github.io/HTML-Project3/)**
+
+<p align="center">
+  <img width="850" alt="Creative Agency Preview" src="./img/img.png" />
+</p>
+
+---
+
 ## ✨ Features
 - **Engaging Hero Section:** Bold headline with call-to-action buttons.
 - **Service Cards:** Presentation of UI/UX design, web development, and branding capabilities.
